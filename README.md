@@ -1,4 +1,4 @@
 # fatima-demo
-this is my first repository.
+This is my first Git Repository.
 <br>
-author - fatima farhath
+Author - Fatima Farhath
